@@ -1,0 +1,17 @@
+/* CSS for centering the button */
+#btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    background-color: black;
+    color: white;
+    padding: 10px 20px; 
+  font-family: cursive;
+   
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  }
